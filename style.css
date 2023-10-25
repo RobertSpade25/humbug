@@ -1,0 +1,14 @@
+/* the gray area css */
+#thegrayarea{
+    background-color: gray;
+}
+
+/* bored cow css */
+#boredcow{
+    background-image: url("https://images.unsplash.com/photo-1603109297462-e9b72bde9d97?auto=format&fit=crop&q=60&w=600&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTJ8fGdyZWVuJTIwcGFzdHVyZXxlbnwwfHwwfHx8MA%3D%3D");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+    text-align: center;
+}
